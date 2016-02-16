@@ -18,18 +18,23 @@ Machine Learning, Matrix Network Computation, Data Mining and Information Retrie
 
 -------
 
-# Publications
-1. **Tao Wu**, Austin R. Bensor, David F. Gleich. "General Tensor Spectral Co-clustering for Higher-Order Data" (submitted).
+# <a name="pub"></a>Publications
+* **Tao Wu**, Austin R. Bensor, David F. Gleich. "General Tensor Spectral Co-clustering for Higher-Order Data" _(submitted)_.
 
-2. Zhiwei Zhang, Jingang Wang, **Tao Wu**, Pengjie Ren, Zhumin Chen and Luo Si. "Supervised Local Contexts Aggregation for Effective Session Search" ECIR 2016. (to appear).
+* Zhiwei Zhang, Jingang Wang, **Tao Wu**, Pengjie Ren, Zhumin Chen and Luo Si. "Supervised Local Contexts Aggregation for Effective Session Search" _ECIR 2016. (to appear)_.
 
-3. **Tao Wu**, Qifan Wang, Zhiwei Zhang, and Luo Si. "Determining expert research areas with multi-instance learning of hierarchical multi-label classification model." In Proceedings of the 24th International Conference on Artificial Intelligence, pp. 2305-2511. AAAI Press, 2015.
+* **Tao Wu**, Qifan Wang, Zhiwei Zhang, and Luo Si. "Determining expert research areas with multi-instance learning of hierarchical multi-label classification model." _In Proceedings of the 24th International Conference on Artificial Intelligence, pp. 2305-2511. AAAI Press, 2015_. [[PDF]](docs/2015IJCAI.pdf)
+> <p style="font-size: 0.8em;">Abstract: Automatically identifying the research areas of academic/industry researchers is an important task for building expertise organizations or search systems. In general, this task can be viewed as text classification that generates a set of research areas given the expertise of a researcher like documents of publications. However, this task is challenging because the evidence of a research area may only exist in a few documents instead of all documents. Moreover, the research areas are often organized in a hierarchy, which limits the effectiveness of existing text categorization methods. This paper proposes a novel approach, Multi-instance Learning of Hierarchical Multi-label Classification Model (MIHML) for the task, which effectively identifies multiple research areas in a hierarchy from individual documents within the profile of a researcher.  An Expectation-Maximization (EM) optimization algorithm is designed to learn the model parameters. Extensive experiments have been conducted to demonstrate the superior performance of proposed research with a real world application.</p>
 
-4. Weidong Ma, **Tao Wu**, Tao Qin, and Tie-Yan Liu. "Generalized second price auctions with value externalities." In Proceedings of the 2014 international conference on Autonomous agents and multi-agent systems, pp. 1457-1458. International Foundation for Autonomous Agents and Multiagent Systems, 2014.
+* Weidong Ma, **Tao Wu**, Tao Qin, and Tie-Yan Liu. "Generalized second price auctions with value externalities." _In Proceedings of the 2014 international conference on Autonomous agents and multi-agent systems, pp. 1457-1458_. [[PDF]](docs/2014AAMAS.pdf)
+> <p style="font-size: 0.8em;">Abstract: We consider a new setting of ad auctions with value externalities. Under such a setting, we perform theoretic analysis on two implementations of generalized second price auctions (GSP): GSPS and GSPV . Our analysis shows that both GSPS and GSPV admit at least one pure Nash equilibrium for the single-slot case, while pure Nash equilibrium may not exist for the multi-slot case. Furthermore, we prove that the price of anarchy of GSPS does not have a constant upper bound, while for GSPV one can achieve a constant upper bound under mild assumptions.</p>
 
-5. Wenkui Ding, **Tao Wu**, Tao Qin, and Tie-Yan Liu. "Pure Price of Anarchy for Generalized Second Price Auction." arXiv preprint arXiv:1305.5404 (2013).
-
+* Wenkui Ding, **Tao Wu**, Tao Qin, and Tie-Yan Liu. "Pure Price of Anarchy for Generalized Second Price Auction." _arXiv preprint arXiv:1305.5404 (2013)_.[[PDF]](docs/2013POA.pdf)
+> <p style="font-size: 0.8em;">The Generalized Second Price auction (GSP) has been widely used by search engines to sell ad slots. Previous studies have shown that the pure Price Of Anarchy (POA) of GSP is 1.25 when there are two ad slots and 1.259 when three ad slots. For the cases with more than three ad slots, however, only some untight upper bounds of the pure POA were obtained. In this work, we improve previous results in two aspects: (1) We prove that the pure POA for GSP is 1.259 when there are four ad slots, and (2) We show that the pure POA for GSP with more than four ad slots is also 1.259 given the bidders are ranked according to a particular permutation.</p>
 ------
+
+
+
 Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
