@@ -1,15 +1,14 @@
 # Dependencies
-markdown:         redcarpet
+markdown: redcarpet
 highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Tao Wu
+tagline:          'Tao&#39s Homepage'
+#description:      'Ph.D. Candidate<br><a href="https://www.cs.purdue.edu" target="_blank">Computer Science</a><br><a href="http://www.purdue.edu" target="_blank">Purdue University</a>'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
@@ -24,3 +23,7 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
+
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
