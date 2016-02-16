@@ -18,6 +18,18 @@ Machine Learning, Matrix Network Computation, Data Mining and Information Retrie
 
 -------
 
+# Publications
+1. **Tao Wu**, Austin R. Bensor, David F. Gleich. "General Tensor Spectral Co-clustering for Higher-Order Data" (submitted).
+
+2. Zhiwei Zhang, Jingang Wang, **Tao Wu**, Pengjie Ren, Zhumin Chen and Luo Si. "Supervised Local Contexts Aggregation for Effective Session Search" ECIR 2016. (to appear).
+
+3. **Tao Wu**, Qifan Wang, Zhiwei Zhang, and Luo Si. "Determining expert research areas with multi-instance learning of hierarchical multi-label classification model." In Proceedings of the 24th International Conference on Artificial Intelligence, pp. 2305-2511. AAAI Press, 2015.
+
+4. Weidong Ma, **Tao Wu**, Tao Qin, and Tie-Yan Liu. "Generalized second price auctions with value externalities." In Proceedings of the 2014 international conference on Autonomous agents and multi-agent systems, pp. 1457-1458. International Foundation for Autonomous Agents and Multiagent Systems, 2014.
+
+5. Wenkui Ding, **Tao Wu**, Tao Qin, and Tie-Yan Liu. "Pure Price of Anarchy for Generalized Second Price Auction." arXiv preprint arXiv:1305.5404 (2013).
+
+------
 Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
