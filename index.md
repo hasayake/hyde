@@ -26,15 +26,23 @@ Machine Learning, Matrix Network Computation, Data Mining and Information Retrie
 
 * Research Assistant ---- **Purdue University**   <span style="float:right">2013.08 - present </span>
 <p class="message">
-  I am working with Prof. David Gleich and Prof. Luo Si on various topics including Network Analysis, Machine Learning and Information Retrieval.
+  I am working with 
+  Prof. [David Gleich](https://www.cs.purdue.edu/homes/dgleich/)
+  and Prof. [Luo Si](https://www.cs.purdue.edu/homes/lsi/)
+  on various topics including Network Analysis, Machine Learning and Information Retrieval.
 </p>
 * Research Intern ----      **Samsung Research America**    <span style="float:right">2015.05-2015.08</span>
 <p class="message">
-  I did my internship at the Cloud Research Lab with my mentor Dr. Thomas Phan. The project included topics on Mobile Computing and Deep Neural Network.
+  I did my internship at the Cloud Research Lab with my mentor
+  Dr. [Thomas Phan](https://www.linkedin.com/in/thomasphan).
+  The project included topics on Mobile Computing and Deep Neural Network.
 </p>
 * Research Intern   ----    **Microsoft Research Asia**     <span style="float:right">2012.07-2013.05</span>
 <p class="message">
-  I worked with Dr. Tie-yan Liu and Dr. Tao Qin on Algorithmic Game Theory and Computational Advertising with applications to sponsored search.
+  I worked with 
+  Dr. [Tie-yan Liu](http://research.microsoft.com/en-us/people/tyliu/) 
+  and Dr. [Tao Qin](http://research.microsoft.com/en-us/people/taoqin/)
+  on Algorithmic Game Theory and Computational Advertising with applications to sponsored search.
 </p>
 
 

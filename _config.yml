@@ -10,11 +10,11 @@ title:            Tao Wu
 tagline:          'Tao&#39s Homepage'
 description:      'wu577(at)purdue(dot)edu'
 url:              http://hyde.getpoole.com
-baseurl:          /
+baseurl:          https://www.cs.purdue.edu/homes/wu577/
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Tao Wu'
+  url:            https://www.cs.purdue.edu/homes/wu577/
 
 paginate:         5
 

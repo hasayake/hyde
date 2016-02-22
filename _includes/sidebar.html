@@ -25,7 +25,7 @@
       {% for node in pages_list %}
         {% if node.title != null %}
           {% if node.layout == "page" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
           {% endif %}
         {% endif %}
       {% endfor %}
@@ -34,8 +34,8 @@
 
     <div class = "sidebar-sticky">
       <footer>
-      <div class = "outer">
-        &nbsp &nbsp <a href="https://twitter.com/_wutao_"><img title="Twitter" src="{{ site.baseurl }}image/twitter.png" alt="Twitter" width="35" height="35" /></a> &nbsp &nbsp
+      <div class = "outer" align="center">
+        <a href="https://twitter.com/_wutao_"><img title="Twitter" src="{{ site.baseurl }}image/twitter.png" alt="Twitter" width="35" height="35" /></a> &nbsp &nbsp
         <a href="https://www.linkedin.com/in/tao-wu-8726055a?trk=nav_responsive_tab_profile"><img title="Linkedin" src="{{ site.baseurl }}image/linkedin.png" alt="Linkedin" width="35" height="35" /></a>&nbsp &nbsp
         <a href="https://github.com/wutao27"><img title="Github" src="{{ site.baseurl }}image/github.png" alt="Github" width="35" height="35" /></a>
       </div>

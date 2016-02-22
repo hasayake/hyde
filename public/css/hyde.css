@@ -297,12 +297,12 @@ a.sidebar-nav-item:focus {
       .image.avatar img {
         border-radius: 100%;
         display: block;
-        width: 90%;
+        width: 100%;
       }
 
 
 .outer {
-    text-align: justify;
+    text-align: center;
 }
 .outer img {
     display: inline-block;
