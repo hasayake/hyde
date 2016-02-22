@@ -43,7 +43,7 @@ Machine Learning, Matrix Network Computation, Data Mining and Information Retrie
 
 # <a name="pub"></a>Publications
 
-* **Tao Wu**, Austin R. Bensor, David F. Gleich. "General Tensor Spectral Co-clustering for Higher-Order Data" _(submitted)_.
+<!-- * **Tao Wu**, Austin R. Bensor, David F. Gleich. "General Tensor Spectral Co-clustering for Higher-Order Data" _(submitted)_. -->
 
 * Zhiwei Zhang, Jingang Wang, **Tao Wu**, Pengjie Ren, Zhumin Chen and Luo Si. "Supervised Local Contexts Aggregation for Effective Session Search" _ECIR 2016. (to appear)_.
 
